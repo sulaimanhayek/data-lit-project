@@ -1,4 +1,33 @@
+/*** Fonts ***/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+:root{
+    --primary-white: #fff;
+    --primary-black: #000;
+
+}
+
+body{
+    font-family: 'Roboto Condensed' sans-serif;
+}
 /***** Navbar ****/
 .logo{
     width: 8rem;
+}
+
+/*** Nav links ***/
+nav a.nav-link{
+    font-weight: 200;
+    letter-spacing: 0.0375rem;
+    cursor: pointer;
+}
+
+nav ul li{
+    text-transform: uppercase;
+
+}
+
+navbar-nav > li > a{
+    color: var(--primary-white) !important;
+
 }

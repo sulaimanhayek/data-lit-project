@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="308.943" height="151.26" viewBox="0 0 308.943 151.26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="308.943" height="151.26" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="data-lit--svg" clip-path="url(#clip-path)">
+    <path id="Path_1" data-name="Path 1" d="M435.284,294.428c26.207,4.648,6.833-92.53,52.414-75.515s54.005,86.566,92.052,33.942,67.717-97.7,81.429-33.942,9.968,144.539,44.926,70.252S732.874,202.293,742,177.429" transform="translate(-434.935 -176.74)" fill="none" stroke="rgba(189,52,52,0.98)" stroke-width="4"/>
+    <text id="Data-Literacy" transform="translate(16.065 142.26)" fill="rgba(189,52,52,0.98)" font-size="37" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Data-Lit</tspan><tspan y="0" fill="#707070">eracy</tspan></text>
+  </g>
+</svg>

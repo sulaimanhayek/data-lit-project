@@ -14,7 +14,7 @@ body{
 /*************** Navbar **************/
 
 .nav{
-    z-index: 2;
+    z-index: 9;
 }
 
 .logo{
@@ -57,7 +57,7 @@ navbar-nav > li > a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    z-index: 1;
+    z-index: 2;
     
 }
 .main-info h1{
@@ -98,9 +98,9 @@ navbar-nav > li > a{
 
 .tsparticles-canvas-el {
 position: absolute;
-height: 100vh;
-width: 100vw ;
-z-index: 1;
+height: 100vh !important;
+width: 100vw !important;
+z-index: 2;
 
 
 }

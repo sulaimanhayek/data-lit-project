@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className="header-wrapper">
             <div className="main-info">
-                <h1>We make your dashboards lit</h1>
+                <h1>We make your dashboards lit 🔥</h1>
                 <ReactTyped 
                 className="typed-text"
                 strings={["Ready to use themes", "Trainings", "Customized pages"]}
